@@ -1,3 +1,10 @@
+
+
+<p align="center">
+  <img src="sneha%20banner.png" alt="Quantum Brain Tumor Detection Banner" width="100%">
+</p>
+
+
 # Quantum Brain Tumor Detection
 
 A hybrid quantum-classical deep learning model for binary brain tumor classification using MRI images. This project combines convolutional neural network feature extraction with a 4-qubit variational quantum circuit to explore quantum-enhanced medical image analysis.
