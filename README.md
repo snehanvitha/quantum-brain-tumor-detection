@@ -75,6 +75,16 @@ Images are resized to 224x224, converted to grayscale, and normalized before tra
 - Epochs: 50
 
 ---
+## Classification Report
+
+| Class       | Precision | Recall | F1-Score |
+|-------------|-----------|--------|----------|
+| Yes (Tumour) | 0.98      | 0.97   | 0.98     |
+| No (Normal)  | 0.99      | 0.99   | 0.99     |
+
+**Overall Accuracy:** 0.996  
+
+---
 
 ## Evaluation
 
