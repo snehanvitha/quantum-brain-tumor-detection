@@ -12,6 +12,18 @@ Classical Backbone:
 - EfficientNet-B0 (modified for grayscale MRI input)
 - Feature reduction layer before quantum embedding
 
+## Research Publication
+
+This project is associated with the following published research paper:
+
+Title: Brain Tumour Detection Using Quantum Convolutional Neural Networks (QCNN)
+
+Conference: IEEE Odisha International Conference on Information Technology (OCIT 2025)
+
+Publisher: IEEE
+
+DOI: https://doi.org/10.1109/OCIT66168.2025.11400476
+
 Quantum Layer:
 - 4 qubits
 - AngleEmbedding for encoding classical features
